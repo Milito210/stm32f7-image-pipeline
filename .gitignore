@@ -1,0 +1,7 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated data
+pc/data/prepped/
